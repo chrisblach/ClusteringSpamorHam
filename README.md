@@ -15,3 +15,11 @@ it a lot of times.
 As DBScan is very sensitive to parameters, if we had a lot of time to tweak the parameters,
 we think this algorithm can go really far. 
 We are not good at regex, so fixing the feature extraction regex would give a better score.
+
+newApproach.py:
+Clustering algorithm. Give it the Documents.csv, and specify outputs throughout the code.
+
+trivial.py:
+Just regex, very simple but got the highest score. Give it the Documents.csv, and specify output.
+
+Both file should run normally if you have all libraries
